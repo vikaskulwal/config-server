@@ -4,3 +4,6 @@ zuul:
       sample-client:
           path: /sample-client/**
           service-id: SAMPLE-CLIENT
+      flight-booking:
+          path: /flight-booking/**
+          service-id: FLIGHT-BOOKING
