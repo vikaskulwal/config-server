@@ -1,5 +1,5 @@
 zuul:
   routes:
-    users:
+    sample:
       path: /sample/**
       serviceId: sample-client
